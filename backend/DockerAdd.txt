@@ -1,0 +1,12 @@
+in Node js Application we have to Create a Docker image file 
+
+check this :: https://github.com/docker/welcome-to-docker
+
+step 1 : Docker install in Win
+ .dockerignore add karo app me
+|--- node_module
+|--- .env
+|--- .git
+|--- .DS_store 
+and Dockerfile
+
